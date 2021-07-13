@@ -6,8 +6,6 @@ PDC Project
 	<h2 align="center"> Processing Speed Comparisons with Parallel Fundamentals </h2>
 </p>
 
-<h4 align="center">My GitHub profile link -: https://github.com/bloodkalsura</h4>
-
 ---
 <br>
 
